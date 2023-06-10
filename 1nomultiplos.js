@@ -3,7 +3,7 @@ var multiplo = prompt("ingrese numero no multiplos");
 var mult;
 for (mult=0; mult<=multiplo; mult++){
 
-if(mult % 7==0){
+if(mult % 7==0){,
     console.log()
 
 }
